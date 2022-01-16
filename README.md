@@ -1,5 +1,3 @@
-### Hi. My name is Oleg Vintoniuk.
-
 <table>
   <tboby>
     <tr>
