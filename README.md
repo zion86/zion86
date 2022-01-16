@@ -1,13 +1,33 @@
 ### Hi. My name is Oleg Vintoniuk.
 
-##### MAIN SKILLS:
-<img src="https://img.shields.io/badge/HTML-555555.svg?&style=flat-square&logo=html5" /> <img src="https://img.shields.io/badge/CSS-555555.svg?&style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/JavaScript-555555.svg?&style=flat-square&logo=javascript" /> <img src="https://img.shields.io/badge/React.js-555555.svg?&style=flat-square&logo=react" />
-
-##### ADDITIONAL SKILLS:
-<img src="https://img.shields.io/badge/Node.js-555555.svg?&style=flat-square&logo=node.js" /> <img src="https://img.shields.io/badge/npm-555555.svg?&style=flat-square&logo=npm" /> <img src="https://img.shields.io/badge/MongoDB-555555.svg?&style=flat-square&logo=mongodb" /> <img src="https://img.shields.io/badge/Express.js-555555.svg?&style=flat-square&logo=express" />
-
-##### TOOLS:
-<img src="https://img.shields.io/badge/VS code-555555.svg?&style=flat-square&logo=visualstudiocode" /> <img src="https://img.shields.io/badge/Github-555555.svg?&style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Chrome DEV tools-555555.svg?&style=flat-square&logo=googlechrome" /> <img src="https://img.shields.io/badge/Webpack-555555.svg?&style=flat-square&logo=webpack" /> <img src="https://img.shields.io/badge/Figma-555555.svg?&style=flat-square&logo=figma" />
+<table>
+  <tboby>
+    <tr>
+      <td>
+        MAIN SKILLS:
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/HTML-555555.svg?&style=flat-square&logo=html5" /> <img src="https://img.shields.io/badge/CSS-555555.svg?&style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/JavaScript-555555.svg?&style=flat-square&logo=javascript" /> <img src="https://img.shields.io/badge/React.js-555555.svg?&style=flat-square&logo=react" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        ADDITIONAL SKILLS:
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Node.js-555555.svg?&style=flat-square&logo=node.js" /> <img src="https://img.shields.io/badge/npm-555555.svg?&style=flat-square&logo=npm" /> <img src="https://img.shields.io/badge/MongoDB-555555.svg?&style=flat-square&logo=mongodb" /> <img src="https://img.shields.io/badge/Express.js-555555.svg?&style=flat-square&logo=express" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        TOOLS:
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/VS code-555555.svg?&style=flat-square&logo=visualstudiocode" /> <img src="https://img.shields.io/badge/Github-555555.svg?&style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Chrome DEV tools-555555.svg?&style=flat-square&logo=googlechrome" /> <img src="https://img.shields.io/badge/Webpack-555555.svg?&style=flat-square&logo=webpack" /> <img src="https://img.shields.io/badge/Figma-555555.svg?&style=flat-square&logo=figma" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <!--
 **zion86/zion86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
