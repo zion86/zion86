@@ -1,3 +1,5 @@
+### Hi. My name is Oleg Vintoniuk.
+
 ##### MAIN SKILLS:
 <img src="https://img.shields.io/badge/HTML-555555.svg?&style=flat-square&logo=html5" /> <img src="https://img.shields.io/badge/CSS-555555.svg?&style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/JavaScript-555555.svg?&style=flat-square&logo=javascript" /> <img src="https://img.shields.io/badge/React.js-555555.svg?&style=flat-square&logo=react" />
 
