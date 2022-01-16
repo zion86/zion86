@@ -14,7 +14,7 @@
       <td>
         ADDITIONAL SKILLS:
       </td>
-      <td>
+      <td style="text-align: center">
         <img src="https://img.shields.io/badge/Node.js-555555.svg?&style=flat-square&logo=node.js" /> <img src="https://img.shields.io/badge/npm-555555.svg?&style=flat-square&logo=npm" /> <img src="https://img.shields.io/badge/MongoDB-555555.svg?&style=flat-square&logo=mongodb" /> <img src="https://img.shields.io/badge/Express.js-555555.svg?&style=flat-square&logo=express" />
       </td>
     </tr>
