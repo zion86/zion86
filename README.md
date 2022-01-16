@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<img src="https://img.shields.io/badge/HTML-555555.svg?&style=for-the-badge&logo=html5" />
-<img src="https://img.shields.io/badge/CSS-555555.svg?&style=for-the-badge&logo=css3" />
-<img src="https://img.shields.io/badge/JavaScript-555555.svg?&style=for-the-badge&logo=javascript" />
-
+#### Main skills:
+<img src="https://img.shields.io/badge/HTML-555555.svg?&style=flat-square&logo=html5" /> <img src="https://img.shields.io/badge/CSS-555555.svg?&style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/JavaScript-555555.svg?&style=flat-square&logo=javascript" />
 
 <!--
 **zion86/zion86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
