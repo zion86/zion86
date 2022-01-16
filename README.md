@@ -38,7 +38,7 @@
         <img src="https://github.com/zion86/zion86/blob/main/assets/images/hover-slider.jpg" />
       </td>
       <td>
-        <a href="https://zion86.github.io/portfolio/cards-gallery-with-hover-effect/index.html" target="_blank">Gallery with hower effect</a>
+        <a target="_blank" href="https://zion86.github.io/portfolio/cards-gallery-with-hover-effect/index.html">Gallery with hower effect</a>
       </td>
     </tr>
   </tbody>
