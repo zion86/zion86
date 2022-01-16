@@ -34,7 +34,7 @@
 <table>
   <tbody>
     <tr>
-      <td width="15%">
+      <td width="20%">
         <img src="https://github.com/zion86/zion86/blob/main/assets/images/hover-slider.jpg" />
       </td>
       <td>
@@ -44,7 +44,7 @@
       </td>
     </tr>
     <tr>
-      <td width="15%">
+      <td width="20%">
         <img src="https://github.com/zion86/zion86/blob/main/assets/images/willberries-internet-store.jpg" />
       </td>
       <td>
