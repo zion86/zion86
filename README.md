@@ -34,11 +34,23 @@
 <table>
   <tbody>
     <tr>
-      <td>
+      <td width="15%">
         <img src="https://github.com/zion86/zion86/blob/main/assets/images/hover-slider.jpg" />
       </td>
       <td>
         <a target="_blank" href="https://zion86.github.io/portfolio/cards-gallery-with-hover-effect/index.html">Gallery with hower effect</a>
+        <br/>
+        HTML, CSS, adaptive design
+      </td>
+    </tr>
+    <tr>
+      <td width="15%">
+        <img src="https://github.com/zion86/zion86/blob/main/assets/images/willberries-internet-store.jpg" />
+      </td>
+      <td>
+        <a target="_blank" href="https://zion86.github.io/portfolio/Willberries/dist/index.html">Willberries internet shop</a>
+        <br/>
+        HTML, CSS, JavaScript, Webpack, responsive design
       </td>
     </tr>
   </tbody>
