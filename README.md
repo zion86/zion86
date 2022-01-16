@@ -53,6 +53,16 @@
         HTML, CSS, JavaScript, Webpack, responsive design
       </td>
     </tr>
+      <tr>
+        <td width="20%">
+          <img src="https://github.com/zion86/zion86/blob/main/assets/images/js-organizer.jpg" />
+        </td>
+        <td>
+          <a target="_blank" href="https://zion86.github.io/js-portfolio/events-calendar/dist/index.html">Weekly Schedule calendar</a>
+        <br/>
+        Vanilla JavaScript
+      </td>
+    </tr>
   </tbody>
 </table>
 
