@@ -29,6 +29,21 @@
   </tbody>
 </table>
 
+#### Examples:
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://github.com/zion86/zion86/blob/main/assets/images/hover-slider.jpg" />
+      </td>
+      <td>
+        <a href="https://zion86.github.io/portfolio/cards-gallery-with-hover-effect/index.html" target="_blank">Gallery with hower effect</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <!--
 **zion86/zion86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
