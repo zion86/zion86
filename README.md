@@ -26,6 +26,14 @@
         <img src="https://img.shields.io/badge/VS code-555555.svg?&style=flat-square&logo=visualstudiocode" /> <img src="https://img.shields.io/badge/Github-555555.svg?&style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Chrome DEV tools-555555.svg?&style=flat-square&logo=googlechrome" /> <img src="https://img.shields.io/badge/Webpack-555555.svg?&style=flat-square&logo=webpack" /> <img src="https://img.shields.io/badge/Figma-555555.svg?&style=flat-square&logo=figma" />
       </td>
     </tr>
+    <tr>
+      <td>
+        NETWORKING:
+      </td>
+      <td>
+         <a href="https://www.linkedin.com/in/oleg-vintoniuk/"><img src="https://img.shields.io/badge/Linkedin-555555.svg?&style=flat-square&logo=linkedin" /></a> <a href="mailto:oleg.vintoniuk@gmail.com"><img src="https://img.shields.io/badge/Gmail-555555.svg?&style=flat-square&logo=gmail" /></a> <a href="https://drive.google.com/file/d/1DFlod8RlxJfScwojWQ86nye0jX3c-Ffz/view?usp=sharing"><img src="https://img.shields.io/badge/CV-555555.svg?&style=flat-square" /></a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
