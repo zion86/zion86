@@ -43,23 +43,28 @@
   <tbody>
     <tr>
       <td>
-        <img src="https://github.com/zion86/zion86/blob/main/assets/images/hover-slider.jpg" />
         <a href="https://zion86.github.io/portfolio/cards-gallery-with-hover-effect/index.html" target="_blank">
-          <h3>Gallery with hower effect</h3>
-          <p>HTML, CSS, adaptive design</p>
+          <img src="https://github.com/zion86/zion86/blob/main/assets/images/hover-slider.jpg" />
+          Gallery with hower effect
+          </br>
+        <p>HTML, CSS, adaptive design</p>
         </a>
       </td>
       <td>
-        <img src="https://github.com/zion86/zion86/blob/main/assets/images/willberries-internet-store.jpg" />
-        <a target="_blank" href="https://zion86.github.io/portfolio/Willberries/dist/index.html">Willberries internet shop</a>
-        <br/>
-        HTML, CSS, JavaScript, Webpack, responsive design
+        <a target="_blank" href="https://zion86.github.io/portfolio/Willberries/dist/index.html">
+          <img src="https://github.com/zion86/zion86/blob/main/assets/images/willberries-internet-store.jpg" />
+          Willberries internet shop
+          <br/>
+          <p>HTML, CSS, JavaScript, Webpack, responsive design</p>
+        </a>
       </td>
         <td>
-          <img src="https://github.com/zion86/zion86/blob/main/assets/images/js-organizer.jpg" />
-          <a target="_blank" href="https://zion86.github.io/js-portfolio/events-calendar/dist/index.html">Weekly Schedule calendar</a>
-        <br/>
-        Vanilla JavaScript
+          <a target="_blank" href="https://zion86.github.io/js-portfolio/events-calendar/dist/index.html">
+            <img src="https://github.com/zion86/zion86/blob/main/assets/images/js-organizer.jpg" />
+            Weekly Schedule calendar
+            <br/>
+            <p>Vanilla JavaScript</p>
+          </a>
       </td>
     </tr>
   </tbody>
