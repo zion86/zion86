@@ -43,10 +43,10 @@
   <tbody>
     <tr>
       <td>
+        <img src="https://github.com/zion86/zion86/blob/main/assets/images/hover-slider.jpg" />
         <a href="https://zion86.github.io/portfolio/cards-gallery-with-hover-effect/index.html" target="_blank">
-          <img src="https://github.com/zion86/zion86/blob/main/assets/images/hover-slider.jpg" />
           <h3>Gallery with hower effect</h3>
-          HTML, CSS, adaptive design
+          <p>HTML, CSS, adaptive design</p>
         </a>
       </td>
       <td>
