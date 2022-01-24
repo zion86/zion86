@@ -42,30 +42,21 @@
 <table>
   <tbody>
     <tr>
-      <td width="20%">
-        <img src="https://github.com/zion86/zion86/blob/main/assets/images/hover-slider.jpg" />
+      <td>
+        <a href="https://zion86.github.io/portfolio/cards-gallery-with-hover-effect/index.html" target="_blank">
+          <img src="https://github.com/zion86/zion86/blob/main/assets/images/hover-slider.jpg" />
+          <h3>Gallery with hower effect</h3>
+          HTML, CSS, adaptive design
+        </a>
       </td>
       <td>
-        <a target="_blank" href="https://zion86.github.io/portfolio/cards-gallery-with-hover-effect/index.html">Gallery with hower effect</a>
-        <br/>
-        HTML, CSS, adaptive design
-      </td>
-    </tr>
-    <tr>
-      <td width="20%">
         <img src="https://github.com/zion86/zion86/blob/main/assets/images/willberries-internet-store.jpg" />
-      </td>
-      <td>
         <a target="_blank" href="https://zion86.github.io/portfolio/Willberries/dist/index.html">Willberries internet shop</a>
         <br/>
         HTML, CSS, JavaScript, Webpack, responsive design
       </td>
-    </tr>
-      <tr>
-        <td width="20%">
-          <img src="https://github.com/zion86/zion86/blob/main/assets/images/js-organizer.jpg" />
-        </td>
         <td>
+          <img src="https://github.com/zion86/zion86/blob/main/assets/images/js-organizer.jpg" />
           <a target="_blank" href="https://zion86.github.io/js-portfolio/events-calendar/dist/index.html">Weekly Schedule calendar</a>
         <br/>
         Vanilla JavaScript
