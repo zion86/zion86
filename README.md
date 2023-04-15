@@ -31,7 +31,7 @@
         NETWORKING:
       </td>
       <td>
-         <a target="_blank" href="https://www.linkedin.com/in/oleg-vintoniuk/"><img src="https://img.shields.io/badge/Linkedin-555555.svg?&style=flat-square&logo=linkedin" /></a> <a target="_blank" href="mailto:oleg.vintoniuk@gmail.com"><img src="https://img.shields.io/badge/Gmail-555555.svg?&style=flat-square&logo=gmail" /></a> <a target="_blank" href="https://drive.google.com/file/d/1lgpOML3cgPUGF8BaefA6qrp7szW1Eip8/view?usp=sharing"><img src="https://img.shields.io/badge/CV-555555.svg?&style=flat-square" /></a>
+         <a target="_blank" href="https://www.linkedin.com/in/oleg-vintoniuk/"><img src="https://img.shields.io/badge/Linkedin-555555.svg?&style=flat-square&logo=linkedin" /></a> <a target="_blank" href="mailto:oleg.vintoniuk@gmail.com"><img src="https://img.shields.io/badge/Gmail-555555.svg?&style=flat-square&logo=gmail" /></a> <a target="_blank" href="https://drive.google.com/file/d/1SaNnhtaoVJkO4nqOWoyqz6LqjimGvoKA/view?usp=share_link"><img src="https://img.shields.io/badge/CV-555555.svg?&style=flat-square" /></a>
       </td>
     </tr>
   </tbody>
